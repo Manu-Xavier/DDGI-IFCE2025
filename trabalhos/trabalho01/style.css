@@ -1,1 +1,16 @@
+        /* Estilo do botão */
+        .botao {
+            background-color: #007bff; /* Cor azul */
+            color: white; /* Texto branco */
+            padding: 10px 20px; /* Padding do botão */
+            border: none; /* Sem borda */
+            border-radius: 5px; /* Bordas arredondadas */
+            cursor: pointer; /* Cursor de ponteiro */
+            font-size: 16px; /* Tamanho da fonte */
+            transition: background-color 0.3s; /* Transição suave */
+        }
 
+        /* Estilo quando o mouse passa por cima */
+        .botao:hover {
+            background-color: #005ab9; /* Cor azul mais escura */
+        }
