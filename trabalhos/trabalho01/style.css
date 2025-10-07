@@ -1,5 +1,5 @@
         /* Estilo do botão */
-        .botao {
+        a.button {
             background-color: #007bff; /* Cor azul */
             color: white; /* Texto branco */
             padding: 10px 20px; /* Padding do botão */
@@ -11,7 +11,7 @@
         }
 
         /* Estilo quando o mouse passa por cima */
-        .botao:hover {
+        a.button:hover {
             background-color: #005ab9; /* Cor azul mais escura */
         }
 
