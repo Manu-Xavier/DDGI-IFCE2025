@@ -2,7 +2,7 @@
         a.button {
             background-color: #007bff; /* Cor azul */
             color: white; /* Texto branco */
-            padding: 10px 20px; /* Padding do botão */
+            padding: 10px 50px; /* Padding do botão */
             border: none; /* Sem borda */
             border-radius: 5px; /* Bordas arredondadas */
             cursor: pointer; /* Cursor de ponteiro */
@@ -15,13 +15,18 @@
             background-color: #005ab9; /* Cor azul mais escura */
         }
 
+        .botao{
+            margin-top: 100px;
+            margin-left: 200px;
+        }
+
         .conteudo{
             position: relative;
             z-index: 0;
         }
         
         body {
-            background-color: black;
+            background-color: rgb(77, 74, 74);
         }
 
         .foto{
